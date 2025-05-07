@@ -11,6 +11,9 @@ Blind Blood is a vanilla C++ first-person shooter (FPS) game that uses a raycast
 In Blind Blood, players navigate through a maze-like environment, battling enemies and solving puzzles. The game employs a minimalist design with a focus on gameplay mechanics and atmosphere. The raycasting technique provides a pseudo-3D experience, reminiscent of early FPS games from the 90s.
 
 ### Features:
+
+The game is built using SDL2, and it includes features like:
+
 - **Retro Graphics**: Classic pixelated textures and sprites.
 - **Raycasting Engine**: Efficient rendering for a nostalgic FPS experience.
 - **Audio Effects**: Immersive sound effects and background music.
